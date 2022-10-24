@@ -1,4 +1,4 @@
-NEWWWWWWWWWW
+
 
 
 
@@ -6,10 +6,9 @@ NEWWWWWWWWWW
 <h1 align="center">Hi 👋, I'm Mofijul Haque</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- I'm a Front End Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 
 - 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **React JS, JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **mofijulhoque995@gmail.com**
 
