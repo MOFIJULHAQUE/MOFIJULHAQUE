@@ -6,7 +6,6 @@ NEWWWWWWWWWW
 <h1 align="center">Hi 👋, I'm Mofijul Haque</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **News Website**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -25,6 +24,8 @@ NEWWWWWWWWWW
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofijulhaque&show_icons=true&locale=en" alt="mofijulhaque" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofijulhaque&" alt="mofijulhaque" /></p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MOFIJULHAQUE)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofijulhaque&" alt="mofijulhaque" /></p>
+
