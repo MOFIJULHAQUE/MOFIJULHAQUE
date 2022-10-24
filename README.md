@@ -4,7 +4,6 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 
 Skills: PYTHON/JAVA/C/REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
