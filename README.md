@@ -1,6 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Mofijul Haque</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - I'm a Front End Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
