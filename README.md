@@ -40,7 +40,7 @@
   </p></h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -53,6 +53,8 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 </div>
+</h3>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofijulhaque&show_icons=true&locale=en&layout=compact" alt="mofijulhaque" /></p>
 
