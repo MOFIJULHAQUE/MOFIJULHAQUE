@@ -13,8 +13,7 @@
 
 
 
-Connect with me:
-<!-- <div align="center"> -->
+<div align="center">
 
 <a href="https://dev.to/https://dev.to/mofijulhaque" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -34,7 +33,7 @@ Connect with me:
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC0ZXPfuiWvZeubimUhPhN_A" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<!-- </div>   -->
+</div>  
   
 
 
