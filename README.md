@@ -12,10 +12,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: <p>
   
-## Connect with me  
 <div align="center">
 <a href="https://dev.to/https://dev.to/mofijulhaque" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -38,8 +36,9 @@
 </div>  
   
 
-<br/>  
-</p>
+
+  </p></h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
