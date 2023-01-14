@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Mofijul Haque</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
+, I'm Mofijul Haque</h1>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
